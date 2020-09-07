@@ -1,4 +1,4 @@
 # dotfiles
 these are my dotfiles and config for i3wm
 # required programs
-i3, rofi, playerctl, xrandr
+i3, rofi, playerctl, xrandr, feh
